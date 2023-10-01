@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-01T16:56:20 IST" name="Default suite" finished-at="2023-10-01T16:57:27 IST" duration-ms="67365">
+    <groups>
+    </groups>
+    <test started-at="2023-10-01T16:56:20 IST" name="Default test" finished-at="2023-10-01T16:57:27 IST" duration-ms="67365">
+      <class name="com.subscribe.tests.Test">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:56:20 IST" name="loadConfig" finished-at="2023-10-01T16:56:35 IST" duration-ms="15115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method signature="testBahrainPackage()[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:56:35 IST" name="testBahrainPackage" finished-at="2023-10-01T16:57:01 IST" duration-ms="26279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBahrainPackage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:57:01 IST" name="getResult" finished-at="2023-10-01T16:57:01 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testBahrainPackage status=SUCCESS method=Test.testBahrainPackage()[pri:0, instance:com.subscribe.tests.Test@298a5e20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testKSAPackage()[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:57:01 IST" name="testKSAPackage" finished-at="2023-10-01T16:57:08 IST" duration-ms="6582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKSAPackage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:57:08 IST" name="getResult" finished-at="2023-10-01T16:57:08 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testKSAPackage status=SUCCESS method=Test.testKSAPackage()[pri:0, instance:com.subscribe.tests.Test@298a5e20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testKuwaitPackage()[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:57:08 IST" name="testKuwaitPackage" finished-at="2023-10-01T16:57:27 IST" duration-ms="18869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKuwaitPackage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:57:27 IST" name="getResult" finished-at="2023-10-01T16:57:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testKuwaitPackage status=SUCCESS method=Test.testKuwaitPackage()[pri:0, instance:com.subscribe.tests.Test@298a5e20] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="End()[pri:0, instance:com.subscribe.tests.Test@298a5e20]" started-at="2023-10-01T16:57:27 IST" name="End" finished-at="2023-10-01T16:57:27 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- com.subscribe.tests.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
